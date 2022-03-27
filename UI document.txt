@@ -1,0 +1,29 @@
+一： airtest
+
+https://airtest.doc.io.netease.com/tutorial/0_automated_testing/   快速上手-序
+https://airtest.doc.io.netease.com/tutorial/img_0/airtest.png   七： 基本原理
+
+
+
+
+Windows平台下输入空格
+
+https://airtest.doc.io.netease.com/IDEdocs/faq/1_code_examples/
+
+
+
+
+Airtest的图像识别算法（无ocr）
+https://airtest.doc.io.netease.com/IDEdocs/airtest_framework/3_airtest_image/
+
+
+二：pywinauto
+
+中文文档
+https://www.kancloud.cn/gnefnuy/pywinauto_doc/1193036
+
+https://cloud.tencent.com/developer/article/1868988?from=15425
+
+
+https://www.codercto.com/soft/d/19842.html 有机构图
+https://blog.51cto.com/baidutech/743853 这个好
